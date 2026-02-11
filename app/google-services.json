@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503491385652",
+    "project_id": "findx-chat",
+    "storage_bucket": "findx-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503491385652:android:7164bc682037ad4e7f2d61",
+        "android_client_info": {
+          "package_name": "com.example.ashrut.findx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkSjiKhx0iKpBi7iiSZKebVjFpYZLEM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
